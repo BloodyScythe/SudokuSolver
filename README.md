@@ -1,2 +1,2 @@
-# demo
-This is a change
+# Sudoku Solver
+Simple Sudoku solver 
